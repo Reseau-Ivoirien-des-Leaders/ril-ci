@@ -6,55 +6,27 @@ theme = "coming-soon"
 
 # Navigation Bar
 [[menu.main]]
-    name = "Qui sommes-nous"
-    url = "#qui-sommes-nous"
-    weight = 1
-[[menu.main]]
     name = "Nos projets"
-    url = "#nos-projets"
-    weight = 2
-
-# Footer Sitemap
-[[menu.sitemap]]
-    name = "Home"
-    url = "#"
+    url = "#projets"
     weight = 1
-[[menu.sitemap]]
-    name = "Latest Article"
-    url = "/blog"
-    weight = 2
-[[menu.sitemap]]
-    name = "Privacy & Policy"
-    url = "/privacy"
-    weight = 3
-[[menu.sitemap]]
-    name = "Contact"
-    url = "/contact"
-    weight = 4
-
-# Footer Address
-[params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = "https://www.facebook.com/Reseauivoiriendesleaders"
+twitter = "https://instagram.com/ril_225"
+github = "https://github.com/Reseau-Ivoirien-des-Leaders"
 
 [params]
 
 # Header
 logo = "images/logo.png"
-fabFormURL = "https://fabform.io/f/zWMBVeW"
+fabFormURL = "https://fabform.io/f/eqkiNxm"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest app updates"
-copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+footerTitle = "Recevez nos informations par email"
+copyright1 = "Développé par "
+copyright2 = "©  <a href=\"https://www.meetdemocracy.com/\" target=\"_blank\">Meet Democracy </a>"
 
 #contact
-email = "help@staticmania.com"
+email = "info@ril-ci.org"
