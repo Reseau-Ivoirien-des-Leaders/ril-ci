@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://ril-ci.org/"
+baseURL = "https://reseau-ivoirien-des-leaders.github.io/ril-ci/"
 languageCode = "fr-fr"
 title = "Coming Soon | Organisation coming soon template"
 theme = "coming-soon"
